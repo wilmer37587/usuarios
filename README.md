@@ -3,7 +3,7 @@ Proyecto ejemplo - control de versiones
 
 1. Para la creación de la base de datos se debe ejecutar el siguiente script:
 
-```
+```mysql
 CREATE DATABASE prueba_control_versiones;
 
 USE prueba_control_versiones;
