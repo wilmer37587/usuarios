@@ -21,3 +21,5 @@ CREATE TABLE usuario(
 ```
 
 > Se debe tener activado el controlador de mysql para realizar pruebas
+
+> Se debe crear un usuario para mysql con el nombre Java y la contraseña Java
