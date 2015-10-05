@@ -1,7 +1,7 @@
 # usuarios
 Proyecto ejemplo - control de versiones
 
-1. Para la creación de la base de datos se debe ejecutar el siguiente script:
+> Para la creación de la base de datos se debe ejecutar el siguiente script:
 
 ```mysql
 CREATE DATABASE prueba_control_versiones;
@@ -20,4 +20,4 @@ CREATE TABLE usuario(
 
 ```
 
-2. Se debe tener activado el controlador de mysql para realizar pruebas
+> Se debe tener activado el controlador de mysql para realizar pruebas
